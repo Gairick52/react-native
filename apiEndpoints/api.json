@@ -1,0 +1,13 @@
+
+{
+  "bitcoin": {
+    "walletInfo": "https://api.blockchain.info/v2/receive/checkgap",
+    "priceInfo": "https://api.coindesk.com/v1/bpi/currentprice.json",
+    "sendTransaction": "https://api.blockchain.info/v2/receive"
+  },
+  "polygon": {
+    "walletInfo": "https://api.polygon.io/v1/account",
+    "priceInfo": "https://api.polygon.io/v1/last/crypto/USDT/USD",
+    "sendTransaction": "https://api.polygon.io/v1/transactions"
+  }
+}
